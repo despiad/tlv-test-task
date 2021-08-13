@@ -6,7 +6,6 @@ TLV test task.
 
 - Install [Flutter SDK](https://flutter.dev) and set it up
 - Install [VSCode](https://code.visualstudio.com) or [Android Studio](https://developer.android.com/studio)
-- Download a project from a [repository](https://github.com/Despiad/tlv-test-task.git)
 - Open the project via installed editors
 
 ## How to run
